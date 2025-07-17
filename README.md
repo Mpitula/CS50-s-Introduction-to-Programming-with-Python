@@ -49,14 +49,12 @@ To run any problem set solution:
 
 Make sure you have Python 3 installed. You can download it [here](https://www.python.org/downloads/).
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 I'm an IT student currently expanding my skills in software Engineering and programming. This repository is a part of my learning journey and a way to keep track of progress while building a portfolio of projects.
 
-📬 Contact
+## 📬 Contact
 Feel free to connect with me:
 
-LinkedIn: [Alone Mpitula](https://www.linkedin.com/alone-mpitula)
-
-GitHub: [Mpitula](https://www.github.com/Mpitula)
+    LinkedIn: [Alone Mpitula](https://www.linkedin.com/alone-mpitula)
 
 Disclaimer: This repository is intended for educational purposes only. Please do not copy solutions if you're taking the course yourself. Learn, practice, and write your own code. 🙌
