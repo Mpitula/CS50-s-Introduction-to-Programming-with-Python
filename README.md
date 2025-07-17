@@ -54,6 +54,7 @@ I'm an IT student currently expanding my skills in software Engineering and prog
 
 ## 📬 Contact
 Feel free to connect with me:
+
 LinkedIn: [Alone Mpitula](https://www.linkedin.com/alone-mpitula)
 
 Disclaimer: This repository is intended for educational purposes only. Please do not copy solutions if you're taking the course yourself. Learn, practice, and write your own code. 🙌
