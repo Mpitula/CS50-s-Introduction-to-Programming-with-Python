@@ -38,12 +38,13 @@ To run any problem set solution:
 2. Navigate into the directory:
     ```bash
     cd cs50-python/Week 0 - Functions, Variables
+
+3. Navigate into the directory of the python file
     ```bash
     cd Mpitula-cs50-problems-2022-python-indoor
 
-3. Run the python file:
-    
-    bash
+4. Run the python file:
+    ```bash
     cd python indoor.py
 
 Make sure you have Python 3 installed. You can download it [here](https://www.python.org/downloads/).
