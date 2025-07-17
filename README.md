@@ -36,29 +36,17 @@ To run any problem set solution:
    git clone https://github.com/Mpitula/CS50-s-Introduction-to-Programming-with-Python.git
 
 2. Navigate into the directory:
-    bash
+    ```bash
     cd cs50-python/Week 0 - Functions, Variables
-
-    bash
+    ```bash
     cd Mpitula-cs50-problems-2022-python-indoor
 
-3. Run the python file
+3. Run the python file:
+    
     bash
     cd python indoor.py
 
 Make sure you have Python 3 installed. You can download it [here](https://www.python.org/downloads/).
-
-📅 Course Progress
-Week	Topic	        Status
-0	    Hello, World	✅ Done
-1	    Conditionals	⏳ Ongoing
-2	    Loops	        ⏳ Soon
-3	    Exceptions	    ⏳ Soon
-4	    Libraries	    ⏳ Soon
-5	    Unit Tests	    ⏳ Soon
-6	    File I/O	    ⏳ Soon
-7	    OOP	            ⏳ Soon
-Final	Capstone Project⏳ Soon
 
 🙋‍♂️ About Me
 I'm an IT student currently expanding my skills in software Engineering and programming. This repository is a part of my learning journey and a way to keep track of progress while building a portfolio of projects.
